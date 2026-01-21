@@ -1,5 +1,5 @@
 # 声明
-遵循MIT协议，你可以拿这套源码去搭建、对接自己的卡网，但是请留我的名字ctcake，谢谢你。
+遵循[MIT协议](https://github.com/ctcakes/fatality-auto-fat-sale/blob/main/LICENSE)，你可以拿这套源码去搭建、对接自己的卡网，但是请留我的名字ctcake，谢谢你。
 
 # fatality-auto-fat-sale
 自动销售Fatality.win 的fats工具，需要一台Winserver
